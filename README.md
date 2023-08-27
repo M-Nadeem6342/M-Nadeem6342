@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammad Nadeem</h1>
 <h3 align="center">A passionate full-stack web developer (MERN)</h3>
 
+<p><img align="right"  height="200" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="m-nadeem6342" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-nadeem6342&label=Profile%20views&color=0e75b6&style=flat" alt="m-nadeem6342" /> </p>
+
+
 
 - 🌱 I’m currently learning **Next.js, Tailwind CSS, TypeScript**
 
@@ -32,3 +36,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-nadeem6342&show_icons=true&locale=en" alt="m-nadeem6342" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-nadeem6342&" alt="m-nadeem6342" /></p>
+
+
+
+
